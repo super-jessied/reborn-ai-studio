@@ -1,0 +1,17 @@
+Re_Born AI Studio 3차시 웹앱
+
+접속 주소:
+https://super-jessied.github.io/reborn-ai-studio/3%EC%B0%A8%EC%8B%9C/
+
+사용 안내:
+1. QR 코드를 휴대전화 카메라로 스캔합니다.
+2. 8컷 이야기, 이미지, 음악, 영상 움직임 순서대로 실습합니다.
+3. 필요한 프롬프트는 복사 버튼을 눌러 ChatGPT에 붙여넣습니다.
+4. 결과물은 Google Drive에 저장하고 Padlet에 공유합니다.
+
+연결 링크:
+- ChatGPT: https://chatgpt.com/
+- Suno: https://suno.com/
+- Google Flow: https://labs.google/fx/ko/tools/flow
+- Padlet: https://padlet.com/jsslee751/re-born-ai-69zp2rx6zl3tyjym
+- Google Drive: https://drive.google.com/drive/folders/1Kt7Q1OWE9jTE-V_m9op8aVXycPz6Lcqi?usp=sharing
