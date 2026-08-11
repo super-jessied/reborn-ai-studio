@@ -34,3 +34,4 @@ https://super-jessied.github.io/reborn-ai-studio/3%EC%B0%A8%EC%8B%9C/
 - `assets/videos`에는 수업용 짧은 예시 영상이 들어 있습니다.
 - `downloads`에는 수강생이 내려받을 통합 강의안이 들어 있습니다.
 - 강의안 안의 보충 PPT 링크는 작성자 PC의 로컬 경로라 웹앱에서는 사용하지 않습니다.
+- 앱 내 브라우저에서도 링크가 차단되지 않도록 외부 도구 버튼은 현재 탭에서 열립니다.
