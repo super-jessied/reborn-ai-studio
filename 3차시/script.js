@@ -1,4 +1,4 @@
-const slides = [
+const slideTitles = [
   "퍼스널 비주얼을 8컷 이야기와 음악으로 확장하기",
   "3시간 수업 흐름",
   "지난 시간 결과 확인",
@@ -31,7 +31,15 @@ const slides = [
   "이미지 프롬프트와 영상 프롬프트의 차이",
   "같은 예제로 Flow와 Seedance 비교하기",
   "다음 시간에는 실제로 움직입니다"
-].map((title, index) => ({ file: `slide-${index + 1}.png`, title }));
+];
+
+const slides = slideTitles
+  .map((title, index) => ({
+    file: `slide-${index + 1}.png`,
+    title,
+    originalSlide: index + 1
+  }))
+  .filter((slide) => ![5, 18].includes(slide.originalSlide));
 
 const slideImage = document.querySelector("#slideImage");
 const slideTitle = document.querySelector("#slideTitle");
