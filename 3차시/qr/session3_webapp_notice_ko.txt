@@ -1,7 +1,7 @@
 Re_Born AI Studio 3차시 웹앱
 
 접속 주소:
-https://super-jessied.github.io/reborn-ai-studio/3%EC%B0%A8%EC%8B%9C/
+https://super-jessied.github.io/reborn-ai-studio/session3/
 
 사용 안내:
 1. QR 코드를 휴대전화 카메라로 스캔합니다.
